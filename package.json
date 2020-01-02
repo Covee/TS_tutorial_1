@@ -1,0 +1,13 @@
+{
+  "name": "TS_tutorial_1",
+  "version": "1.0.0",
+  "description": "TS blockchain",
+  "main": "index.js",
+  "repository": "https://github.com/Covee/TS_tutorial_1.git",
+  "author": "Cobee <uniqtop91@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
+}
