@@ -11,4 +11,4 @@ making blockchain with TS | tutorial
 7. dev 환경에서 tsc-watch 쓸 수 있게 설치 ```yarn add tsc-watch --dev```
 8. src 디렉토리 생성해서 기존 index.ts를 src 안으로 옮겨주고 dist 디렉토리 생성(dist는 tsc 한번 돌려서 src/index.ts로부터 생성되는 자바스크립트 코드들)
 9. tsconfig.json과 package.json 경로와 설정 등 변경(변경사항 check out)
-10. 
+10. interface는 객체를 타입화해서 받을 수 있는 장치.
