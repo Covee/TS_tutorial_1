@@ -16,5 +16,6 @@ making blockchain with TS | tutorial
 12. class는 반드시 하나의 constructor를 가지게 되고 이것은 class가 쓰여질 때 마다 호출된다.
 13. public은 외부에서도 자유롭게 접근 가능, private은 외부에서 접근 불가능.
 14. 만들어진 class를 이용해 객체를 생성해 줄 때, ```new (class명)``` 이런 식으로.
-15. blockchain: [Block] 라고 선언하는 것은, blockchain의 타입은 Block들의 array라는 뜻.
-16. 
+15. blockchain: Block[] 라고 선언하는 것은, blockchain의 타입은 Block들의 array라는 뜻.
+16. 메서드를 만들 때, static을 붙여주면 외부에서 사용이 가능.(vice-versa)
+17. 
